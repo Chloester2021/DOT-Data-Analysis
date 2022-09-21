@@ -1,7 +1,8 @@
 ## DOT-Data-Analysis
 - DOT segment and market reports analysis and visualization using Python Pandas
 - The raw data is downloaded from [BTS](https://www.transtats.bts.gov/databases.asp?Z1qr_VQ=E&Z1qr_Qr5p=N8vn6v10&f7owrp6_VQF=D) reports
-- Some examples:
+
+### Some examples:
 
 2021 US Top 10 International Destination
 ![image](https://user-images.githubusercontent.com/89100758/191605539-15044288-cd9b-4032-89fa-9356c1d79398.png)
