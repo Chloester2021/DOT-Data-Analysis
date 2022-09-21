@@ -6,7 +6,7 @@
 2021 US Top 10 International Destination
 ![image](https://user-images.githubusercontent.com/89100758/191605539-15044288-cd9b-4032-89fa-9356c1d79398.png)
 
-SFO Top 10 Destination by PDEW till 2022/5
+SFO Top 10 Destination by PDEW Till 2022/5
 ![image](https://user-images.githubusercontent.com/89100758/191607931-0d2696c5-7c9a-4b15-acbc-5998e062280e.png)
 
 US to France and Italy PAX 2021
